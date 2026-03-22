@@ -23,8 +23,12 @@
 - SHAP explainability + Streamlit deployment
 - 🔗 [Live Demo](https://startup-success-predictor-gt794ctbxinbtaleqyfxy2.streamlit.app/) | [GitHub](https://github.com/MeetChhugani/startup-success-predictor)
 
-### 👥 Employee Attrition Predictor
-- Coming soon 🚧
+### 👥 Employee Attrition Predictor + AI Chatbot
+- IBM HR Analytics dataset, 1,470 employees
+- XGBoost model with ROC-AUC of 0.77
+- AI powered retention chatbot using Groq LLaMA3
+- SHAP explainability for HR managers
+- 🔗 [Live Demo](https://employee-attrition-predictor-2g4bpxpen6yuczcr5esmsj.streamlit.app/) | [GitHub](https://github.com/MeetChhugani/employee-attrition-predictor)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-chhugani)
