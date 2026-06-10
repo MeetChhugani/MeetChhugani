@@ -90,18 +90,16 @@ An interactive business intelligence analytical suite analyzing sales performanc
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Summary & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeetChhugani&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeetChhugani&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MeetChhugani&theme=tokyonight" width="250" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetChhugani&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetChhugani&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeetChhugani&theme=tokyonight" width="320" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeetChhugani&theme=tokyonight" width="320" />
 </p>
 
 ---
