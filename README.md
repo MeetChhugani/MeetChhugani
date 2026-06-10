@@ -90,17 +90,28 @@ An interactive business intelligence analytical suite analyzing sales performanc
 
 ---
 
-## 📊 GitHub Summary & Metrics
+## 🎯 My Data Science & MLOps Roadmap
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeetChhugani&theme=tokyonight" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MeetChhugani&theme=tokyonight" width="250" />
-</p>
+Instead of raw metrics, I track my engineering capability through a structured, stage-by-stage learning and deployment lifecycle:
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeetChhugani&theme=tokyonight" width="320" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeetChhugani&theme=tokyonight" width="320" />
-</p>
+```mermaid
+graph TD
+    classDef default fill:#141a26,stroke:#3b3f54,stroke-width:1px,color:#cbd5e1;
+    classDef active fill:#0f3b4c,stroke:#00f0ff,stroke-width:2px,color:#00f0ff;
+    classDef next fill:#2c1b4d,stroke:#bd00ff,stroke-width:1px,color:#bd00ff;
+
+    P1[Phase 1: Machine Learning & Explainability<br>- tuned XGBoost / Random Forest<br>- imbalanced-learn SMOTE<br>- SHAP waterfall & local attribution]:::active
+    
+    P2[Phase 2: Natural Language Processing & LLMs<br>- Groq API / LLaMA 3.3 model orchestration<br>- text processing pipelines<br>- semantic classification]:::active
+    
+    P3[Phase 3: Deployment & App Development<br>- Streamlit dashboard scripting<br>- state preservation & caching<br>- dual parser fallback systems]:::active
+    
+    P4[Phase 4: MLOps & Infrastructure<br>- containerization with Docker<br>- CI/CD pipelines via GitHub Actions<br>- automated model testing]:::next
+    
+    P1 --> P2 --> P3 --> P4
+```
+
+* **Current Focus**: Standardizing deployment environments and mastering MLOps orchestrations (Docker + GitHub Actions) to take my Streamlit applications to enterprise-grade production.
 
 ---
 
