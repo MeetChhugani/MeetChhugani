@@ -94,22 +94,12 @@ An interactive business intelligence analytical suite analyzing sales performanc
 
 Instead of raw metrics, I track my engineering capability through a structured, stage-by-stage learning and deployment lifecycle:
 
-```mermaid
-graph TD
-    classDef default fill:#141a26,stroke:#3b3f54,stroke-width:1px,color:#cbd5e1;
-    classDef active fill:#0f3b4c,stroke:#00f0ff,stroke-width:2px,color:#00f0ff;
-    classDef next fill:#2c1b4d,stroke:#bd00ff,stroke-width:1px,color:#bd00ff;
-
-    P1[Phase 1: Machine Learning & Explainability<br>- tuned XGBoost / Random Forest<br>- imbalanced-learn SMOTE<br>- SHAP waterfall & local attribution]:::active
-    
-    P2[Phase 2: Natural Language Processing & LLMs<br>- Groq API / LLaMA 3.3 model orchestration<br>- text processing pipelines<br>- semantic classification]:::active
-    
-    P3[Phase 3: Deployment & App Development<br>- Streamlit dashboard scripting<br>- state preservation & caching<br>- dual parser fallback systems]:::active
-    
-    P4[Phase 4: MLOps & Infrastructure<br>- containerization with Docker<br>- CI/CD pipelines via GitHub Actions<br>- automated model testing]:::next
-    
-    P1 --> P2 --> P3 --> P4
-```
+| Phase | Focus Area | Key Achievements / Technologies | Status |
+| :--- | :--- | :--- | :---: |
+| **Phase 1** | **Machine Learning & Explainability** | Tuned XGBoost / Random Forest • SMOTE Oversampling • SHAP Local Attribution | `🟢 Deployed` |
+| **Phase 2** | **NLP & Generative AI Orchestration** | LLaMA 3.3 Engine • Groq API • Text Pipelines • Sentiment Classification | `🟢 Deployed` |
+| **Phase 3** | **Interactive Application Engineering** | Streamlit Architecture • Session State Memory • Dual Parser Pipelines | `🟢 Deployed` |
+| **Phase 4** | **MLOps & Infrastructure** | Docker Containerization • GitHub Actions CI/CD • Automated Testing | `🟡 Active Focus` |
 
 * **Current Focus**: Standardizing deployment environments and mastering MLOps orchestrations (Docker + GitHub Actions) to take my Streamlit applications to enterprise-grade production.
 
