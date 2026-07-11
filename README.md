@@ -8,32 +8,15 @@
 
 ## 🙋 Who I Am
 
-```typescript
-const meetChhugani = {
-  pronouns: "he/him",
-  role: "Final Year IT Student & Aspiring AI/ML Engineer",
-  location: "Bhavnagar, India",
-  stack: [
-    "Python", "FastAPI", "Flutter",
-    "Django", "Streamlit", "Scikit-Learn", "MediaPipe"
-  ],
-  launchedProjects: [
-    "Employee Risk Radar",
-    "QuizLab",
-    "Fintech Sentiment Analyzer",
-    "Startup Success Predictor"
-  ],
-  certifications: [
-    "Python with Django — Brainybeam Info-Tech Pvt. Ltd.",
-    "Data Analytics — iStudio"
-  ],
-  status: "Actively training deep learning models & neural networks",
-  openTo: [
-    "AI/ML Engineer Roles",
-    "Data Scientist Roles",
-    "Machine Learning Internships"
-  ]
-};
+```python
+meet_chhugani = {
+    "role": "Final Year IT Student & Aspiring AI/ML Engineer",
+    "location": "Bhavnagar, India",
+    "core_stack": ["Python", "Scikit-Learn", "PyTorch", "FastAPI", "SQL"],
+    "research_focus": ["Predictive Analytics", "Explainable AI", "NLP & LLMs", "Computer Vision"],
+    "status": "Actively training deep learning models & neural networks",
+    "open_to": ["AI/ML Engineer Roles", "Data Scientist Roles"]
+}
 ```
 
 ---
