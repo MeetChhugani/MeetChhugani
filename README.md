@@ -2,7 +2,7 @@
 
 ![Skills Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8b5cf6&width=435&lines=AIML+Engineer+and+Data+Scientist;Predictive+Modeling+and+Explainable+AI;NLP+and+GenAI+with+Groq+%2B+LLaMA;Building+End-to-End+ML+Products)
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-8b5cf6?style=for-the-badge&logo=github)](https://linkedin.com/in/meet-chhugani) ![Profile Views](https://komarev.com/badge/webpage-views?key=MeetChhugani&color=8b5cf6&style=for-the-badge)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-8b5cf6?style=for-the-badge&logo=github)](https://linkedin.com/in/meet-chhugani)
 
 ---
 
@@ -71,7 +71,7 @@ const meetChhugani = {
 | **Imbalance Handling** | SMOTE |
 | **AI Advisor** | Groq API (LLaMA 3.3 70B) |
 
-🔗 **[Source Code](https://github.com/MeetChhugani/employee-risk-radar)** **[Live](https://employee-risk-radar-xexmbf3kfedcvxdrdgbnnh.streamlit.app/)**
+🔗 **[Source Code](https://github.com/MeetChhugani/employee-risk-radar)** | **[Live Demo](https://employee-risk-radar-xexmbf3kfedcvxdrdgbnnh.streamlit.app/)**
 
 ---
 
@@ -86,7 +86,7 @@ const meetChhugani = {
 | **AI Engine** | Groq API (LLaMA 3.3 70B) |
 | **Export** | Markdown / JSON / Anki TSV |
 
-🔗 **[Source Code](https://github.com/MeetChhugani/QuizLab)** **[Live](https://quizlab-ed8.streamlit.app/)**
+🔗 **[Source Code](https://github.com/MeetChhugani/QuizLab)** | **[Live Demo](https://quizlab-ed8.streamlit.app/)**
 
 ---
 
@@ -131,22 +131,12 @@ const meetChhugani = {
 
 ---
 
-## 📈 GitHub Stats
+## 🔄 End-to-End ML Lifecycle Experience
 
-![Meet's GitHub Stats](https://github-stats-extended.vercel.app/api?username=MeetChhugani&show_icons=true&theme=nord&border_color=8b5cf6&title_color=8b5cf6&icon_color=8b5cf6&text_color=d8dee9)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=MeetChhugani&layout=compact&theme=nord&border_color=8b5cf6&title_color=8b5cf6&text_color=d8dee9)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MeetChhugani&theme=nord&no-frame=true&no-bg=true&row=1&column=7)
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/MeetChhugani/MeetChhugani/output/github-contribution-grid-snake.svg)
-
-*(Requires a one-time GitHub Action setup — see note below the file.)*
-
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&color=8b5cf6)
+* **Data Engineering & Preprocessing**: Cleaning messy datasets, handling missing values, scaling features, and managing class imbalance with **SMOTE**.
+* **Model Training & Optimization**: Selecting appropriate algorithms (Trees, Ensembles, Neural Networks) and tuning hyperparameters using Grid Search/Random Search to maximize **ROC-AUC** and **F1-Score**.
+* **Explainable AI (XAI)**: Demystifying black-box models and extracting feature importance using **SHAP** values to provide actionable business insights.
+* **Deployment & Inference**: Building and deploying low-latency web interfaces (using **Streamlit** and **FastAPI**) to serve ML models directly to end-users.
 
 ---
 
