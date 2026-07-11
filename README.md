@@ -71,7 +71,7 @@ const meetChhugani = {
 | **Imbalance Handling** | SMOTE |
 | **AI Advisor** | Groq API (LLaMA 3.3 70B) |
 
-🔗 **[Source Code](https://github.com/MeetChhugani/employee-risk-radar)** *(deploy link currently down — redeploy on Streamlit Cloud and re-add before shipping this README)*
+🔗 **[Source Code](https://github.com/MeetChhugani/employee-risk-radar)** **[Live](https://employee-risk-radar-xexmbf3kfedcvxdrdgbnnh.streamlit.app/)**
 
 ---
 
@@ -86,7 +86,7 @@ const meetChhugani = {
 | **AI Engine** | Groq API (LLaMA 3.3 70B) |
 | **Export** | Markdown / JSON / Anki TSV |
 
-🔗 **[Source Code](https://github.com/MeetChhugani/QuizLab)** *(deploy link currently down — redeploy on Streamlit Cloud and re-add before shipping this README)*
+🔗 **[Source Code](https://github.com/MeetChhugani/QuizLab)** **[Live](https://quizlab-ed8.streamlit.app/)**
 
 ---
 
