@@ -63,7 +63,7 @@ const meetChhugani = {
 
 > *An end-to-end machine learning application that predicts employee attrition using hyperparameter-tuned XGBoost. It features an interactive dashboard and utilizes SHAP values to provide explainable, feature-level insights into attrition risk factors.*
 
-![Employee Risk Radar Pin](https://github-stats-extended.vercel.app/api/pin/?username=MeetChhugani&repo=employee-risk-radar&theme=nord&border_color=8b5cf6&text_color=d8dee9&title_color=8b5cf6&icon_color=8b5cf6)
+![Employee Risk Radar Pin](https://github-stats-extended.vercel.app/api/pin/?username=MeetChhugani&repo=employee-risk-radar&theme=nord&border_color=8b5cf6&text_color=d8dee9&title_color=8b5cf6&icon_color=8b5cf6&v=1)
 
 | Layer | Technology |
 |:---|:---|
@@ -81,7 +81,7 @@ const meetChhugani = {
 
 > *An intelligent, adaptive assessment platform powered by Groq API and LLaMA 3.3 70B. It seamlessly parses unstructured PDF documents to dynamically generate context-aware questions, offering JSON and Anki TSV exports for optimized learning.*
 
-![QuizLab Pin](https://github-stats-extended.vercel.app/api/pin/?username=MeetChhugani&repo=QuizLab&theme=nord&border_color=8b5cf6&text_color=d8dee9&title_color=8b5cf6&icon_color=8b5cf6)
+![QuizLab Pin](https://github-stats-extended.vercel.app/api/pin/?username=MeetChhugani&repo=QuizLab&theme=nord&border_color=8b5cf6&text_color=d8dee9&title_color=8b5cf6&icon_color=8b5cf6&v=1)
 
 | Layer | Technology |
 |:---|:---|
@@ -98,7 +98,7 @@ const meetChhugani = {
 
 > *A real-time behavioral analytics pipeline designed to evaluate interview performance. It leverages Flutter, FastAPI, and MediaPipe for advanced computer vision telemetry (facial mesh, head posture, and gaze tracking) combined with NLP transcription.*
 
-![Interview Analyzer Pin](https://github-stats-extended.vercel.app/api/pin/?username=MeetChhugani&repo=ai-interview-analyzer&theme=nord&border_color=8b5cf6&text_color=d8dee9&title_color=8b5cf6&icon_color=8b5cf6)
+![Interview Analyzer Pin](https://github-stats-extended.vercel.app/api/pin/?username=MeetChhugani&repo=ai-interview-analyzer&theme=nord&border_color=8b5cf6&text_color=d8dee9&title_color=8b5cf6&icon_color=8b5cf6&v=1)
 
 | Layer | Technology |
 |:---|:---|
