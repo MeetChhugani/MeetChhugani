@@ -92,7 +92,7 @@ const meetChhugani = {
 
 ### 🎙️ AI Smart Interview Analyzer *(in development)*
 
-![Interview Analyzer Pin](https://github-stats-extended.vercel.app/api/pin/?username=MeetChhugani&repo=ai-smart-interview&theme=nord&border_color=8b5cf6&text_color=d8dee9&title_color=8b5cf6&icon_color=8b5cf6)
+![Interview Analyzer Pin](https://github-stats-extended.vercel.app/api/pin/?username=MeetChhugani&repo=ai-interview-analyzer&theme=nord&border_color=8b5cf6&text_color=d8dee9&title_color=8b5cf6&icon_color=8b5cf6)
 
 | Layer | Technology |
 |:---|:---|
@@ -101,7 +101,7 @@ const meetChhugani = {
 | **Telemetry & CV** | MediaPipe (Face Mesh, Gaze Tracking) |
 | **Transcription** | NLP Speech-to-Text Stream |
 
-🔗 **[Source Code](https://github.com/MeetChhugani/ai-smart-interview)** — no live demo yet, backend/CV pipeline still in progress.
+🔗 **[Source Code](https://github.com/MeetChhugani/ai-interview-analyzer)** — no live demo yet, backend/CV pipeline still in progress.
 
 ---
 
